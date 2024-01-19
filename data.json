@@ -1,0 +1,183 @@
+{
+  "sliderData": [
+    {
+      "desktop_img_src": "./image1.png",
+      "heading1": "Exquisite Watches",
+      "heading2": "Gold Luxury, Choose Us",
+      "bg_color": "linear-gradient(106deg, #F4A764 -2.93%, #FFDEC2 72.14%);",
+      "heading_color": "white",
+      "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+      "price": "$499.00",
+      "customSVG": {
+        "svgData": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='60' viewBox='0 0 240 60' fill='none'><circle cx='30' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='120' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='210' cy='30' r='29' stroke='white' stroke-width='2'/><path fill-rule='evenodd' clip-rule='evenodd' d='M197 28.6299V30.5403C197 34.4489 197 36.4033 198.222 37.6607C199.445 38.9182 201.369 38.9726 205.218 39.0816L205.218 39.0816C207.042 39.1331 208.905 39.1701 210.5 39.1701C212.095 39.1701 213.958 39.1331 215.782 39.0816L215.782 39.0816C219.631 38.9726 221.555 38.9182 222.778 37.6607C224 36.4033 224 34.4489 224 30.5403V28.6299C224 24.7212 224 22.7668 222.778 21.5093C221.555 20.2518 219.631 20.1974 215.782 20.0885L215.782 20.0885C213.958 20.037 212.095 20 210.5 20C208.905 20 207.042 20.037 205.218 20.0885C201.369 20.1974 199.445 20.2518 198.222 21.5093C197 22.7668 197 24.7212 197 28.6299ZM208 33L214 29.5L208 26V33Z' fill='white'/><path d='M133 19.0119C133 19.0119 130.615 20.4207 129.289 20.8201C128.577 20.0017 127.631 19.4216 126.579 19.1583C125.527 18.8951 124.419 18.9613 123.406 19.3481C122.393 19.7348 121.523 20.4235 120.914 21.3208C120.304 22.2182 119.985 23.281 120 24.3655V25.5473C117.923 25.6012 115.865 25.1406 114.009 24.2065C112.154 23.2724 110.558 21.8939 109.364 20.1937C109.364 20.1937 104.636 30.8301 115.273 35.5574C112.839 37.2095 109.939 38.0379 107 37.921C117.636 43.8301 130.636 37.921 130.636 24.3301C130.635 24.0009 130.604 23.6725 130.542 23.3492C131.748 22.1596 133 19.0119 133 19.0119Z' fill='white'/><path d='M37.85 16H33.8C32.0098 16 30.2928 16.7112 29.0271 17.977C27.7612 19.2429 27.05 20.9598 27.05 22.75V26.8H23V32.2H27.05V43H32.45V32.2H36.5L37.85 26.8H32.45V22.75C32.45 22.392 32.5923 22.0486 32.8454 21.7954C33.0985 21.5422 33.442 21.4 33.8 21.4H37.85V16Z' fill='white'/></svg>"
+      },
+      "styles": {
+        "text_content": {
+          "display": "flex",
+          "flex_direction": "column"
+        },
+        "heading1": {
+          "text_color": "white",
+          "font_size": "50px",
+          "font_family": "Sofia Sans"
+        },
+        "heading2": {
+          "text_color1": "white",
+          "font_size": "30px",
+          "text_color2": "Black",
+          "font_family": "Sofia Sans"
+        },
+
+        "caption": {
+          "font_color": "black",
+          "font_size": "20px",
+          "font_weight": "400",
+          "font_family": "Poppins"
+        },
+        "price": {
+          "font_size": "40px",
+          "font_family": "Poppins",
+          "font_weight": "700px",
+          "margin_bottom": "20px",
+          "font_color": "White"
+        }
+      }
+    },
+     {
+       "desktop_img_src": "./image2.png",
+       "heading1": "Dainty Timepieces",
+       "heading2": "Silver Luxury, Choose Us",
+       "heading_color": "#00000",
+       "bg_color":"linear-gradient(105.54deg, #ADB0B0 -2.93%, #E1E1E1 72.14%)",
+       "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+       "price": "$469.00",
+       "customSVG": {
+         "svgData": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='60' viewBox='0 0 240 60' fill='none'><circle cx='30' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='120' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='210' cy='30' r='29' stroke='white' stroke-width='2'/><path fill-rule='evenodd' clip-rule='evenodd' d='M197 28.6299V30.5403C197 34.4489 197 36.4033 198.222 37.6607C199.445 38.9182 201.369 38.9726 205.218 39.0816L205.218 39.0816C207.042 39.1331 208.905 39.1701 210.5 39.1701C212.095 39.1701 213.958 39.1331 215.782 39.0816L215.782 39.0816C219.631 38.9726 221.555 38.9182 222.778 37.6607C224 36.4033 224 34.4489 224 30.5403V28.6299C224 24.7212 224 22.7668 222.778 21.5093C221.555 20.2518 219.631 20.1974 215.782 20.0885L215.782 20.0885C213.958 20.037 212.095 20 210.5 20C208.905 20 207.042 20.037 205.218 20.0885C201.369 20.1974 199.445 20.2518 198.222 21.5093C197 22.7668 197 24.7212 197 28.6299ZM208 33L214 29.5L208 26V33Z' fill='white'/><path d='M133 19.0119C133 19.0119 130.615 20.4207 129.289 20.8201C128.577 20.0017 127.631 19.4216 126.579 19.1583C125.527 18.8951 124.419 18.9613 123.406 19.3481C122.393 19.7348 121.523 20.4235 120.914 21.3208C120.304 22.2182 119.985 23.281 120 24.3655V25.5473C117.923 25.6012 115.865 25.1406 114.009 24.2065C112.154 23.2724 110.558 21.8939 109.364 20.1937C109.364 20.1937 104.636 30.8301 115.273 35.5574C112.839 37.2095 109.939 38.0379 107 37.921C117.636 43.8301 130.636 37.921 130.636 24.3301C130.635 24.0009 130.604 23.6725 130.542 23.3492C131.748 22.1596 133 19.0119 133 19.0119Z' fill='white'/><path d='M37.85 16H33.8C32.0098 16 30.2928 16.7112 29.0271 17.977C27.7612 19.2429 27.05 20.9598 27.05 22.75V26.8H23V32.2H27.05V43H32.45V32.2H36.5L37.85 26.8H32.45V22.75C32.45 22.392 32.5923 22.0486 32.8454 21.7954C33.0985 21.5422 33.442 21.4 33.8 21.4H37.85V16Z' fill='white'/></svg>"
+       },
+       "styles": {
+         "text_content": {
+           "display": "flex",
+           "flex_direction": "column"
+         },
+         "heading1": {
+           "text_color": "white",
+           "font_size": "50px",
+           "font_family": "Sofia Sans",
+           "margin": "0"
+         },
+         "heading2": {
+           "text_color1": "white",
+           "font_size": "30px",
+           "text_color2": "Black",
+           "font_family": "Sofia Sans"
+         },
+
+         "caption": {
+           "font_color": "black",
+           "font_size": "20px",
+           "font_weight": "400",
+           "font_family": "Poppins",
+           "margin_bottom": "10px"
+         },
+         "price": {
+           "font_size": "40px",
+           "font_family": "Poppins",
+           "font_weight": "700px",
+           "margin_bottom": "20px",
+           "font_color": "White"
+         }
+       }
+     },
+      {
+        "desktop_img_src": "./image3.png",
+        "heading1": "Elegant Timepieces",
+        "heading2": "Choose Luxury, Choose Us",
+        "bg_color": "linear-gradient(106deg, #30A357 -2.93%, #75E39A 72.14%)",
+        "heading_color": "#00000",
+        "height": "650px",
+        "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+        "price": "$529.00",
+        "customSVG": {
+          "svgData": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='60' viewBox='0 0 240 60' fill='none'><circle cx='30' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='120' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='210' cy='30' r='29' stroke='white' stroke-width='2'/><path fill-rule='evenodd' clip-rule='evenodd' d='M197 28.6299V30.5403C197 34.4489 197 36.4033 198.222 37.6607C199.445 38.9182 201.369 38.9726 205.218 39.0816L205.218 39.0816C207.042 39.1331 208.905 39.1701 210.5 39.1701C212.095 39.1701 213.958 39.1331 215.782 39.0816L215.782 39.0816C219.631 38.9726 221.555 38.9182 222.778 37.6607C224 36.4033 224 34.4489 224 30.5403V28.6299C224 24.7212 224 22.7668 222.778 21.5093C221.555 20.2518 219.631 20.1974 215.782 20.0885L215.782 20.0885C213.958 20.037 212.095 20 210.5 20C208.905 20 207.042 20.037 205.218 20.0885C201.369 20.1974 199.445 20.2518 198.222 21.5093C197 22.7668 197 24.7212 197 28.6299ZM208 33L214 29.5L208 26V33Z' fill='white'/><path d='M133 19.0119C133 19.0119 130.615 20.4207 129.289 20.8201C128.577 20.0017 127.631 19.4216 126.579 19.1583C125.527 18.8951 124.419 18.9613 123.406 19.3481C122.393 19.7348 121.523 20.4235 120.914 21.3208C120.304 22.2182 119.985 23.281 120 24.3655V25.5473C117.923 25.6012 115.865 25.1406 114.009 24.2065C112.154 23.2724 110.558 21.8939 109.364 20.1937C109.364 20.1937 104.636 30.8301 115.273 35.5574C112.839 37.2095 109.939 38.0379 107 37.921C117.636 43.8301 130.636 37.921 130.636 24.3301C130.635 24.0009 130.604 23.6725 130.542 23.3492C131.748 22.1596 133 19.0119 133 19.0119Z' fill='white'/><path d='M37.85 16H33.8C32.0098 16 30.2928 16.7112 29.0271 17.977C27.7612 19.2429 27.05 20.9598 27.05 22.75V26.8H23V32.2H27.05V43H32.45V32.2H36.5L37.85 26.8H32.45V22.75C32.45 22.392 32.5923 22.0486 32.8454 21.7954C33.0985 21.5422 33.442 21.4 33.8 21.4H37.85V16Z' fill='white'/></svg>"
+        },
+        "styles": {
+          "text_content": {
+            "display": "flex",
+            "flex_direction": "column"
+          },
+          "heading1": {
+            "text_color": "white",
+            "font_size": "50px",
+            "font_family": "Sofia Sans"
+          },
+          "heading2": {
+            "text_color1": "white",
+            "font_size": "30px",
+            "text_color2": "Black",
+            "font_family": "Sofia Sans"
+          },
+
+          "caption": {
+            "font_color": "black",
+            "font_size": "20px",
+            "font_weight": "400",
+            "font_family": "Poppins",
+            "margin_bottom": "10px"
+          },
+          "price": {
+            "font_size": "40px",
+            "font_family": "Poppins",
+            "font_weight": "700px",
+            "margin_bottom": "20px",
+            "font_color": "White"
+          }
+        }
+      },
+       {
+         "desktop_img_src": "./image4.png",
+         "heading1": "Refined Timepieces",
+         "heading2": "Choose Luxury, Choose Us",
+         "bg_color": "linear-gradient(106deg, #F24F4F -2.93%, #FFA895 72.14%)",
+         "heading_color": "#00000",
+         "height": "650px",
+         "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+         "price": "$599.00",
+         "customSVG": {
+           "svgData": "<circle cx='30' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='120' cy='30' r='29' stroke='white' stroke-width='2'/><circle cx='210' cy='30' r='29' stroke='white' stroke-width='2'/><path fill-rule='evenodd' clip-rule='evenodd' d='M197 28.6299V30.5403C197 34.4489 197 36.4033 198.222 37.6607C199.445 38.9182 201.369 38.9726 205.218 39.0816L205.218 39.0816C207.042 39.1331 208.905 39.1701 210.5 39.1701C212.095 39.1701 213.958 39.1331 215.782 39.0816L215.782 39.0816C219.631 38.9726 221.555 38.9182 222.778 37.6607C224 36.4033 224 34.4489 224 30.5403V28.6299C224 24.7212 224 22.7668 222.778 21.5093C221.555 20.2518 219.631 20.1974 215.782 20.0885L215.782 20.0885C213.958 20.037 212.095 20 210.5 20C208.905 20 207.042 20.037 205.218 20.0885C201.369 20.1974 199.445 20.2518 198.222 21.5093C197 22.7668 197 24.7212 197 28.6299ZM208 33L214 29.5L208 26V33Z' fill='white'/><path d='M133 19.0119C133 19.0119 130.615 20.4207 129.289 20.8201C128.577 20.0017 127.631 19.4216 126.579 19.1583C125.527 18.8951 124.419 18.9613 123.406 19.3481C122.393 19.7348 121.523 20.4235 120.914 21.3208C120.304 22.2182 119.985 23.281 120 24.3655V25.5473C117.923 25.6012 115.865 25.1406 114.009 24.2065C112.154 23.2724 110.558 21.8939 109.364 20.1937C109.364 20.1937 104.636 30.8301 115.273 35.5574C112.839 37.2095 109.939 38.0379 107 37.921C117.636 43.8301 130.636 37.921 130.636 24.3301C130.635 24.0009 130.604 23.6725 130.542 23.3492C131.748 22.1596 133 19.0119 133 19.0119Z' fill='white'/><path d='M37.85 16H33.8C32.0098 16 30.2928 16.7112 29.0271 17.977C27.7612 19.2429 27.05 20.9598 27.05 22.75V26.8H23V32.2H27.05V43H32.45V32.2H36.5L37.85 26.8H32.45V22.75C32.45 22.392 32.5923 22.0486 32.8454 21.7954C33.0985 21.5422 33.442 21.4 33.8 21.4H37.85V16Z' fill='white'"
+         },
+         "styles": {
+           "text_content": {
+             "display": "flex",
+             "flex_direction": "column"
+           },
+           "heading1": {
+             "text_color": "white",
+             "font_size": "50px",
+             "font_family": "Sofia Sans"
+           },
+           "heading2": {
+             "text_color1": "white",
+             "font_size": "30px",
+             "text_color2": "Black",
+             "font_family": "Sofia Sans"
+           },
+
+           "caption": {
+             "font_color": "black",
+             "font_size": "20px",
+             "font_weight": "400",
+             "font_family": "Poppins",
+             "margin_bottom": "10px"
+           },
+           "price": {
+             "font_size": "40px",
+             "font_family": "Poppins",
+             "font_weight": "700",
+             "margin_bottom": "20px",
+             "font_color": "White"
+           }
+         }
+       }
+  ]
+ 
+}

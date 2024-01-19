@@ -1,0 +1,81 @@
+:root {
+  --carousel-height: 509px;
+  --carousel-width: 500px;
+}
+
+body {
+  box-sizing: border-box;
+ background: linear-gradient(106deg, #F4A764 -2.93%, #FFDEC2 72.14%); 
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.hero__section {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+
+.splide__track {
+  width: var(--carousel-width);
+  height: 300px;
+}
+
+header {
+  padding: 10px;
+  font-family: 'Sofia Sans', sans-serif;
+}
+
+ #image-carousel li{
+  display: flex;
+  justify-content: center;
+}
+.header__list {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 50px;
+}
+.splide__img{
+  align-items: center;
+  height: 300px;
+}
+
+#shop {
+  margin-left: 20%;
+}
+
+.list_elements {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+h1{
+  margin: 0; 
+}
+button {
+  background-color: black;
+  color: #fff;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.price{
+  font-weight: 900;
+ font-family: 'Sofia Sans', sans-serif;
+}
+@media only screen and (max-width: 600px) {
+ .hero__section{
+  display: flex;
+  flex-direction: column;
+ }
+}
