@@ -1,7 +1,7 @@
 {
   "sliderData": [
     {
-      "desktop_img_src": "./image1.png",
+      "desktop_img_src": "image1.png",
       "heading1": "Exquisite Watches",
       "heading2": "Gold Luxury, Choose Us",
       "bg_color": "linear-gradient(106deg, #F4A764 -2.93%, #FFDEC2 72.14%);",
@@ -44,7 +44,7 @@
       }
     },
      {
-       "desktop_img_src": "./image2.png",
+       "desktop_img_src": "image2.png",
        "heading1": "Dainty Timepieces",
        "heading2": "Silver Luxury, Choose Us",
        "heading_color": "#00000",
@@ -89,7 +89,7 @@
        }
      },
       {
-        "desktop_img_src": "./image3.png",
+        "desktop_img_src": "image3.png",
         "heading1": "Elegant Timepieces",
         "heading2": "Choose Luxury, Choose Us",
         "bg_color": "linear-gradient(106deg, #30A357 -2.93%, #75E39A 72.14%)",
@@ -134,7 +134,7 @@
         }
       },
        {
-         "desktop_img_src": "./image4.png",
+         "desktop_img_src": "image4.png",
          "heading1": "Refined Timepieces",
          "heading2": "Choose Luxury, Choose Us",
          "bg_color": "linear-gradient(106deg, #F24F4F -2.93%, #FFA895 72.14%)",
